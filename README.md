@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Zakaria 👋</h1>
 
-<!--
-**zakaria-el-ouazzani/zakaria-el-ouazzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm currently learning <strong>Python</strong> using <strong>Visual Studio Code</strong>.  
+This is where I share my progress as I grow step by step.
+</p>
 
-Here are some ideas to get you started:
+<h2>🧠 What I'm doing now</h2>
+<ul>
+  <li>Learning the basics of Python</li>
+  <li>Practicing small exercises and simple projects</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📌 Goals</h2>
+<ul>
+  <li>Understand Python better</li>
+  <li>Write clean code</li>
+  <li>Keep track of my progress</li>
+</ul>
+
+<h2>🔗 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/zakaria-el-ouazzani-227856366">My LinkedIn Profile</a>
+</p>
+
+<p align="center">Thanks for visiting </p>
